@@ -14,7 +14,7 @@ export default function Footer() {
             {projectData.projectName}
           </span>
           <span className="text-[10px] text-zinc-600 font-medium tracking-widest uppercase">
-            Padre Claret &bull; Córdoba, Argentina
+            Av. Padre Claret 4851 &bull; Córdoba, Argentina
           </span>
         </div>
         

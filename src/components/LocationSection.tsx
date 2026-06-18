@@ -8,8 +8,8 @@ export default function LocationSection() {
     projectData.location
   )}`;
 
-  // Google Maps Classic Embed URL with extracted coordinates
-  const embedUrl = "https://maps.google.com/maps?q=-31.353425,-64.237786&t=&z=17&ie=UTF8&iwloc=&output=embed";
+  // Google Maps Classic Embed URL resolving address dynamically
+  const embedUrl = `https://maps.google.com/maps?q=${encodeURIComponent(projectData.location)}&t=&z=17&ie=UTF8&iwloc=&output=embed`;
 
   return (
     <section id="ubicacion" className="py-16 bg-zinc-50 border-t border-b border-zinc-150 px-6 sm:px-12 md:px-16">
@@ -24,7 +24,7 @@ export default function LocationSection() {
             Ubicación del Complejo
           </h2>
           <p className="text-zinc-500 mt-2 text-sm sm:text-base font-light">
-            Detalle del emplazamiento físico del complejo residencial sobre Av. Padre Claret.
+            Detalle del emplazamiento físico del complejo residencial sobre Av. Padre Claret 4851.
           </p>
         </div>
 

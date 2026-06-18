@@ -19,7 +19,7 @@ export default function Hero() {
             Registro Fotográfico y Documental
           </p>
           <p className="text-xs sm:text-sm text-zinc-400 font-mono tracking-widest uppercase">
-            Av. Padre Claret &bull; Córdoba &bull; Argentina
+            Av. Padre Claret 4851 &bull; Córdoba &bull; Argentina
           </p>
         </div>
       </div>
