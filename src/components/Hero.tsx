@@ -13,13 +13,13 @@ export default function Hero() {
             Repositorio Visual
           </span>
           <h1 className="text-5xl sm:text-7xl lg:text-8xl font-black text-zinc-950 tracking-tighter leading-none uppercase">
-            Padre Claret
+            Padre Claret 4851
           </h1>
           <p className="text-base sm:text-lg text-zinc-800 font-bold tracking-wide uppercase">
             Registro Fotográfico y Documental
           </p>
           <p className="text-xs sm:text-sm text-zinc-400 font-mono tracking-widest uppercase">
-            Av. Padre Claret 4851 &bull; Córdoba &bull; Argentina
+            Av. Padre Claret 4851 4851 &bull; Córdoba &bull; Argentina
           </p>
         </div>
       </div>
@@ -28,7 +28,7 @@ export default function Hero() {
       <div className="mt-8 mb-4 relative h-[50vh] sm:h-[60vh] w-full bg-zinc-100 rounded-2xl overflow-hidden group select-none border border-zinc-200">
         <img
           src="/images/foto_1.jpg"
-          alt="Vista de fachada del Complejo Padre Claret"
+          alt="Vista de fachada del Complejo Padre Claret 4851"
           className="w-full h-full object-cover transition-transform duration-1000 ease-out group-hover:scale-[1.01]"
         />
         {/* Subtle vignette overlay */}

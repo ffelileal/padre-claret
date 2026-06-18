@@ -61,7 +61,7 @@ export default function Navbar() {
         <div className="max-w-[1440px] mx-auto px-6 sm:px-12 md:px-16 flex justify-between items-center">
           <div className="flex items-center space-x-3">
             <span className="font-extrabold text-zinc-950 tracking-widest text-sm uppercase">
-              Padre Claret
+              Padre Claret 4851
             </span>
             <span className="text-[9px] text-zinc-400 font-bold tracking-widest uppercase border-l border-zinc-200 pl-3">
               Registro Fáctico
@@ -139,7 +139,7 @@ export default function Navbar() {
             Ubicación del Complejo
           </span>
           <p className="text-xs text-zinc-600 font-light">
-            Av. Padre Claret 4851, Córdoba, Argentina
+            Av. Padre Claret 4851 4851, Córdoba, Argentina
           </p>
         </div>
       </div>

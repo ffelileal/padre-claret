@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Registro de Incidencias - Complejo Padre Claret",
+  title: "Registro de Incidencias - Complejo Padre Claret 4851",
   description: "Portal de registro de incidencias, evidencias fotográficas, presupuestos y documentación.",
 };
 

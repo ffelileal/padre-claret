@@ -27,7 +27,7 @@ export default function ComplexSection() {
             REGISTRO GENERAL
           </h2>
           <p className="text-zinc-650 text-sm sm:text-base leading-relaxed font-light">
-            El complejo consta de 4 viviendas familiares sobre la Avenida Padre Claret. 
+            El complejo consta de 4 viviendas familiares sobre la Avenida Padre Claret 4851. 
             Esta página web funciona como un archivo de fotos y documentos para registrar de manera clara y objetiva el estado de la propiedad.
           </p>
           <div className="pt-4 border-t border-zinc-100">

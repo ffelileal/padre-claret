@@ -24,7 +24,7 @@ export default function LocationSection() {
             Ubicación del Complejo
           </h2>
           <p className="text-zinc-500 mt-2 text-sm sm:text-base font-light">
-            Detalle del emplazamiento físico del complejo residencial sobre Av. Padre Claret 4851.
+            Detalle del emplazamiento físico del complejo residencial sobre Av. Padre Claret 4851 4851.
           </p>
         </div>
 
@@ -77,7 +77,7 @@ export default function LocationSection() {
                 style={{ border: 0 }}
                 allowFullScreen={true}
                 loading="lazy"
-                title="Mapa de ubicación Complejo Padre Claret"
+                title="Mapa de ubicación Complejo Padre Claret 4851"
               ></iframe>
             </div>
           </div>
