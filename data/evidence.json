@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "Presencia de grietas en muro exterior",
+    "date": "10 de Mayo, 2026 (Ejemplo)",
+    "category": "Fachadas",
+    "description": "Grietas visibles en forma diagonal sobre la pared exterior que da a la calle interna del complejo.",
+    "images": [
+      "/images/foto_4.jpg",
+      "/images/foto_5.jpg",
+      "/images/foto_6.jpg",
+      "/images/foto_18.jpg"
+    ],
+    "observations": "Se observa una grieta continua que va desde el suelo hasta la parte superior de la pared."
+  },
+  {
+    "id": 2,
+    "title": "Registro de estado en pared interior (Condición preexistente)",
+    "date": "18 de Mayo, 2026 (Ejemplo)",
+    "category": "Interiores",
+    "description": "Registro visual del revestimiento y la pintura en la base de la pared del sector oeste. Se constata la presencia de desprendimiento de pintura de carácter preexistente.",
+    "images": [
+      "/images/foto_11.jpg",
+      "/images/foto_12.jpg",
+      "/images/foto_13.jpg",
+      "/images/foto_14.jpg"
+    ],
+    "observations": "El desprendimiento de pintura se localiza a lo largo del zócalo de manera horizontal."
+  },
+  {
+    "id": 3,
+    "title": "Acumulación de agua en sector común",
+    "date": "24 de Mayo, 2026 (Ejemplo)",
+    "category": "Áreas Comunes",
+    "description": "Acumulación de agua de lluvia en la calle interna frente al ingreso de la propiedad.",
+    "images": [
+      "/images/foto_7.jpg",
+      "/images/foto_19.jpg"
+    ],
+    "observations": "El agua queda estancada por varias horas después de que para de llover."
+  },
+  {
+    "id": 4,
+    "title": "Correcto funcionamiento de cañerías",
+    "date": "28 de Mayo, 2026 (Ejemplo)",
+    "category": "Instalaciones",
+    "description": "Inspección visual y pruebas de agua en la cámara de desagüe para comprobar que el sistema funciona correctamente y no tiene pérdidas.",
+    "images": [
+      "/images/foto_20.jpg",
+      "/images/foto_21.jpg",
+      "/images/foto_22.jpg"
+    ],
+    "observations": "Se comprobó que el agua corre bien por las cañerías de la cámara de inspección y no hay pérdidas de agua ni fallas en las conexiones de la propiedad."
+  }
+]

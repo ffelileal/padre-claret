@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <rect width="800" height="450" fill="#f8fafc" rx="8"/>
+  <path d="M 50 0 L 50 450 M 100 0 L 100 450 M 150 0 L 150 450 M 200 0 L 200 450 M 250 0 L 250 450 M 300 0 L 300 450 M 350 0 L 350 450 M 400 0 L 400 450 M 450 0 L 450 450 M 500 0 L 500 450 M 550 0 L 550 450 M 600 0 L 600 450 M 650 0 L 650 450 M 700 0 L 700 450 M 750 0 L 750 450" stroke="#f1f5f9" stroke-width="1"/>
+  <path d="M 0 50 L 800 50 M 0 100 L 800 100 M 0 150 L 800 150 M 0 200 L 800 200 M 0 250 L 800 250 M 0 300 L 800 300 M 0 350 L 800 350 M 0 400 L 800 400" stroke="#f1f5f9" stroke-width="1"/>
+
+  <!-- Wall Zoom In Section -->
+  <rect x="200" y="50" width="400" height="350" fill="#ffffff" stroke="#475569" stroke-width="3" rx="4"/>
+  
+  <!-- Brick Texture / Render Details (Simulated) -->
+  <line x1="200" y1="120" x2="600" y2="120" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="2 4"/>
+  <line x1="200" y1="200" x2="600" y2="200" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="2 4"/>
+  <line x1="200" y1="280" x2="600" y2="280" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="2 4"/>
+
+  <!-- Close-up Crack Line -->
+  <path d="M 320 50 L 335 90 L 325 150 L 350 200 L 380 250 L 370 310 L 410 370 L 405 400" stroke="#dc2626" stroke-width="5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <!-- Caliper or Measurement Reference -->
+  <path d="M 330 200 L 450 200" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="2 2"/>
+  <path d="M 450 190 L 450 210" stroke="#0284c7" stroke-width="2"/>
+  <path d="M 350 190 L 350 210" stroke="#dc2626" stroke-width="2"/>
+  <text x="400" y="185" font-family="'Inter', sans-serif" font-size="11" fill="#0284c7" font-weight="600" text-anchor="middle">Abertura: Variable</text>
+
+  <!-- Labels -->
+  <text x="220" y="85" font-family="'Inter', sans-serif" font-size="14" fill="#334155" font-weight="600">DETALLE DE GRIETA (ZOOM)</text>
+  <text x="220" y="380" font-family="'Inter', sans-serif" font-size="11" fill="#64748b">Ubicación: Muro Exterior, Vivienda 1</text>
+  <text x="770" y="28" font-family="'Inter', sans-serif" font-size="11" fill="#94a3b8" font-weight="500" text-anchor="end" letter-spacing="1">REGISTRO FOTOGRÁFICO: DETALLE INCIDENCIA 1</text>
+</svg>

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "concept": "Reparación y sellado de grietas en pared exterior",
+    "detail": "Limpieza, preparación y aplicación de sellador elástico en la grieta exterior.",
+    "amount": 1800000
+  },
+  {
+    "id": 2,
+    "concept": "Arreglo de pared interior (revoque y pintura)",
+    "detail": "Tratamiento contra salitre, revoque fino y pintura de terminación en las paredes interiores afectadas.",
+    "amount": 2200000
+  },
+  {
+    "id": 3,
+    "concept": "Instalación de rejillas de desagüe pluvial en la calle común",
+    "detail": "Colocación de rejilla y tubería de desagüe para canalizar el agua de lluvia excedente.",
+    "amount": 6500000
+  }
+]

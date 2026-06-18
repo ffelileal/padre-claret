@@ -1,0 +1,78 @@
+{
+  "title": "Registro de Lluvias Atípicas",
+  "description": "Datos históricos y reportes de prensa que documentan que las precipitaciones registradas fueron completamente fuera de lo común y superaron los promedios habituales.",
+  "historicalAverages": [
+    { "month": "Ene", "rainfall": 145 },
+    { "month": "Feb", "rainfall": 126 },
+    { "month": "Mar", "rainfall": 104 },
+    { "month": "Abr", "rainfall": 78 },
+    { "month": "May", "rainfall": 30 },
+    { "month": "Jun", "rainfall": 15 },
+    { "month": "Jul", "rainfall": 7 },
+    { "month": "Ago", "rainfall": 8 },
+    { "month": "Sep", "rainfall": 43 },
+    { "month": "Oct", "rainfall": 97 },
+    { "month": "Nov", "rainfall": 153 },
+    { "month": "Dic", "rainfall": 113 }
+  ],
+  "introText": "El registro histórico de lluvias en Córdoba Capital durante 2025 y 2026 se caracterizó por una marcada alteración de los promedios históricos, destacando eventos extremos que superaron marcas de casi 60 años.",
+  "atypicalEvents": [
+    {
+      "id": 1,
+      "title": "Récord Histórico de Marzo (2025)",
+      "description": "Fue un mes histórico para la ciudad, con picos que llegaron a los 323,6 mm en la zona oeste, superando el récord anterior de 286 mm de 1968. El primer trimestre de 2025 cerró con unos extraordinarios 456 mm acumulados en algunas zonas urbanas."
+    },
+    {
+      "id": 2,
+      "title": "Comportamiento Anual (2025)",
+      "description": "Las precipitaciones anuales en zonas del centro, norte y ciudad de Córdoba capital oscilaron entre 800 mm y 1000 mm, quedando por encima de la media histórica de la región."
+    },
+    {
+      "id": 3,
+      "title": "Inicio de Año (2026)",
+      "description": "El 2026 comenzó con registros heterogéneos y tormentas localizadas. Por ejemplo, en el mes de enero la estación local registró acumulados significativos en la transición hacia el otoño."
+    },
+    {
+      "id": 4,
+      "title": "Aumento de Precipitaciones (Abril de 2026)",
+      "description": "El otoño de 2026 experimentó un marcado incremento de lluvias respecto al año anterior, con el Servicio Meteorológico Nacional (SMN) advirtiendo sobre acumulados y tormentas que superaron los promedios estacionales, lo cual provocó anegamientos temporarios en áreas de la capital."
+    }
+  ],
+  "newsReports": [
+    {
+      "id": 1,
+      "source": "Tiempo3 - Clima Histórico",
+      "title": "Promedio y Archivo Climático de Córdoba",
+      "url": "https://share.google/AHA57IhGL3kLQQ4qe",
+      "summary": "Datos históricos mensuales de lluvias que sirven como base comparativa para certificar los desvíos registrados."
+    },
+    {
+      "id": 2,
+      "source": "Vía País Córdoba",
+      "title": "Alerta por tormentas y lluvias intensas con calor récord",
+      "url": "https://viapais.com.ar/cordoba/clima-cordoba-temporal-smn-advierte-lluvias-calor-record_0_8Txt47oTlG.html",
+      "summary": "Crónica periodística sobre las alertas del Servicio Meteorológico Nacional por lluvias extremas acumuladas."
+    },
+    {
+      "id": 3,
+      "source": "Meteoblue - Archivo Meteorológico",
+      "title": "Historial de Clima de Córdoba (2026)",
+      "url": "https://www.meteoblue.com/es/tiempo/historyclimate/weatherarchive/c%C3%B3rdoba_argentina_3860259?fcstlength=1y&year=2026&month=6",
+      "summary": "Base de datos del clima que detalla las precipitaciones diarias y desvíos pluviales de la temporada."
+    },
+    {
+      "id": 4,
+      "source": "Instagram - Testimonio en Redes 1",
+      "title": "Registro visual de escurrimiento pluvial intenso",
+      "url": "https://www.instagram.com/p/DX7JsqRE-4t/",
+      "summary": "Videos e imágenes compartidas por usuarios locales mostrando la fuerza del agua acumulada en las calles."
+    },
+    {
+      "id": 5,
+      "source": "Instagram - Testimonio en Redes 2",
+      "title": "Fotos de acumulación de agua y anegamientos",
+      "url": "https://www.instagram.com/p/DTA97J5jrey/?img_index=4",
+      "summary": "Documento gráfico que ilustra la saturación del sistema de desagües en la zona durante el temporal."
+    }
+  ]
+}

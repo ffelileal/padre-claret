@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="100%" height="100%">
+  <!-- Sky / Background -->
+  <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#f8fafc" />
+    <stop offset="100%" stop-color="#e2e8f0" />
+  </linearGradient>
+  <rect width="1600" height="900" fill="url(#skyGrad)" />
+
+  <!-- Grid overlay representing blueprint/technical details -->
+  <path d="M 0 100 L 1600 100 M 0 200 L 1600 200 M 0 300 L 1600 300 M 0 400 L 1600 400 M 0 500 L 1600 500 M 0 600 L 1600 600 M 0 700 L 1600 700 M 0 800 L 1600 800" stroke="#cbd5e1" stroke-width="0.5" opacity="0.3"/>
+  <path d="M 100 0 L 100 900 M 200 0 L 200 900 M 300 0 L 300 900 M 400 0 L 400 900 M 500 0 L 500 900 M 600 0 L 600 900 M 700 0 L 700 900 M 800 0 L 800 900 M 900 0 L 900 900 M 1000 0 L 1000 900 M 1100 0 L 1100 900 M 1200 0 L 1200 900 M 1300 0 L 1300 900 M 1400 0 L 1400 900 M 1500 0 L 1500 900" stroke="#cbd5e1" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Ground -->
+  <rect x="0" y="700" width="1600" height="200" fill="#1e293b" />
+  <line x1="0" y1="700" x2="1600" y2="700" stroke="#0f172a" stroke-width="4"/>
+
+  <!-- Modern House Structure (Facade) -->
+  <!-- Main Concrete Volume -->
+  <rect x="250" y="250" width="1100" height="450" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+  
+  <!-- Left Cantilever / Upper volume -->
+  <rect x="200" y="180" width="700" height="260" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+  <rect x="200" y="440" width="700" height="20" fill="#0f172a" opacity="0.8"/>
+
+  <!-- Wooden accent panel on the right -->
+  <rect x="950" y="250" width="350" height="450" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <!-- Simulated wooden slats -->
+  <line x1="980" y1="250" x2="980" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1010" y1="250" x2="1010" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1040" y1="250" x2="1040" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1070" y1="250" x2="1070" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1100" y1="250" x2="1100" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1130" y1="250" x2="1130" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1160" y1="250" x2="1160" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1190" y1="250" x2="1190" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1220" y1="250" x2="1220" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1250" y1="250" x2="1250" y2="700" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="1280" y1="250" x2="1280" y2="700" stroke="#94a3b8" stroke-width="1"/>
+
+  <!-- Large Glass Windows (Modern Architecture style) -->
+  <!-- Upper Left Window -->
+  <rect x="250" y="220" width="300" height="150" fill="#334155" opacity="0.9" stroke="#0f172a" stroke-width="3"/>
+  <line x1="400" y1="220" x2="400" y2="370" stroke="#475569" stroke-width="2"/>
+  <!-- Window glass reflections -->
+  <path d="M 270 350 L 350 240 M 300 350 L 380 240" stroke="#ffffff" stroke-width="1.5" opacity="0.15"/>
+  <path d="M 420 350 L 500 240" stroke="#ffffff" stroke-width="1.5" opacity="0.15"/>
+
+  <!-- Ground Floor Large Sliding Glass Door -->
+  <rect x="350" y="460" width="550" height="240" fill="#1e293b" opacity="0.95" stroke="#0f172a" stroke-width="3"/>
+  <line x1="533" y1="460" x2="533" y2="700" stroke="#334155" stroke-width="2"/>
+  <line x1="716" y1="460" x2="716" y2="700" stroke="#334155" stroke-width="2"/>
+  <!-- Sliding door reflections -->
+  <path d="M 380 660 L 480 500 M 420 660 L 520 500" stroke="#ffffff" stroke-width="2" opacity="0.1"/>
+  <path d="M 560 660 L 660 500 M 600 660 L 700 500" stroke="#ffffff" stroke-width="2" opacity="0.1"/>
+  <path d="M 740 660 L 840 500" stroke="#ffffff" stroke-width="2" opacity="0.1"/>
+
+  <!-- Entrance door on the right wood panel -->
+  <rect x="1050" y="480" width="140" height="220" fill="#475569" stroke="#0f172a" stroke-width="2"/>
+  <!-- Door handle -->
+  <line x1="1070" y1="580" x2="1070" y2="620" stroke="#cbd5e1" stroke-width="4"/>
+
+  <!-- Ambient trees (minimalist architectural lines) -->
+  <path d="M 100 700 L 100 450 Q 80 430 110 400 Q 140 430 120 450 Z" fill="none" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M 70 700 L 70 520 Q 55 500 75 480 Q 95 500 85 520 Z" fill="none" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M 1480 700 L 1480 380 Q 1450 350 1490 320 Q 1530 350 1500 380 Z" fill="none" stroke="#64748b" stroke-width="1.5"/>
+
+  <!-- Architectural scale human figure -->
+  <path d="M 920 620 C 920 610 925 610 925 600 C 925 595 923 595 923 590 C 923 586 927 586 927 590 C 927 595 925 595 925 600 C 925 610 930 610 930 620 Z M 923 620 L 923 650 M 927 620 L 927 650" stroke="#94a3b8" stroke-width="2" fill="none"/>
+
+  <text x="50" y="860" font-family="'Inter', sans-serif" font-size="16" fill="#64748b" font-weight="500" letter-spacing="3">FACHADA COMPLEJO PADRE CLARET - PERSPECTIVA ILUSTRATIVA</text>
+</svg>

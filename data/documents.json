@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Presupuesto Reparación.pdf",
+    "date": "05 de Junio, 2026 (Ejemplo)",
+    "fileName": "presupuesto_reparacion.pdf",
+    "fileSize": "450 KB",
+    "description": "Detalle de los costos de materiales y mano de obra para los arreglos."
+  },
+  {
+    "id": 2,
+    "title": "Reporte Ingeniero.pdf",
+    "date": "12 de Mayo, 2026 (Ejemplo)",
+    "fileName": "Reporte Ingeniero.pdf",
+    "fileSize": "1.2 MB",
+    "description": "Informe detallado realizado por el ingeniero con anotaciones sobre las grietas encontradas."
+  },
+  {
+    "id": 3,
+    "title": "Registro Fotográfico Complementario.pdf",
+    "date": "20 de Mayo, 2026 (Ejemplo)",
+    "fileName": "registro_fotografico_complementario.pdf",
+    "fileSize": "4.8 MB",
+    "description": "Archivo con fotos adicionales en alta resolución de las zonas afectadas."
+  },
+  {
+    "id": 4,
+    "title": "Acta de Inspección.pdf",
+    "date": "28 de Mayo, 2026 (Ejemplo)",
+    "fileName": "acta_de_inspeccion.pdf",
+    "fileSize": "320 KB",
+    "description": "Acta firmada durante la visita de inspección en el complejo."
+  },
+  {
+    "id": 5,
+    "title": "Contrato Copropiedad.pdf",
+    "date": "Pendiente",
+    "fileName": "Contrato Copropiedad.pdf",
+    "fileSize": "-",
+    "description": "Contrato y reglamento de copropiedad del complejo residencial (espacio reservado)."
+  }
+]
